@@ -1,3 +1,5 @@
+# Hybrid CNN-BiLSTM with-Hypergraph Learning
+
 This repository implements an inductive deep learning model for tropical cyclone 
 intensity forecasting. Unlike conventional approaches that process each storm in 
 isolation, the model constructs a population-aware hypergraph incidence matrix over the entire 
